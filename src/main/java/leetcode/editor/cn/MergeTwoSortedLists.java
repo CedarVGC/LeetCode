@@ -1,0 +1,122 @@
+package leetcode.editor.cn;
+
+//将两个升序链表合并为一个新的 升序 链表并返回。新链表是通过拼接给定的两个链表的所有节点组成的。 
+//
+// 
+//
+// 示例 1： 
+//
+// 
+//输入：l1 = [1,2,4], l2 = [1,3,4]
+//输出：[1,1,2,3,4,4]
+// 
+//
+// 示例 2： 
+//
+// 
+//输入：l1 = [], l2 = []
+//输出：[]
+// 
+//
+// 示例 3： 
+//
+// 
+//输入：l1 = [], l2 = [0]
+//输出：[0]
+// 
+//
+// 
+//
+// 提示： 
+//
+// 
+// 两个链表的节点数目范围是 [0, 50] 
+// -100 <= Node.val <= 100 
+// l1 和 l2 均按 非递减顺序 排列 
+// 
+// Related Topics 递归 链表 
+// 👍 2681 👎 0
+
+public class MergeTwoSortedLists {
+    public static void main(String[] args) {
+        Solution solution = new MergeTwoSortedLists().new Solution();
+        ListNode l1 = null;
+        ListNode r1 = new MergeTwoSortedLists().new ListNode(1);
+        ListNode s= solution.mergeTwoLists(l1,r1);
+        while (s!=null){
+            System.out.println(s.val);
+            s=s.next;
+        }
+    }
+
+
+    /**
+     * Definition for singly-linked list.
+     * public class ListNode {
+     * int val;
+     * ListNode next;
+     * ListNode() {}
+     * ListNode(int val) { this.val = val; }
+     * ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+     * }
+     */
+    class ListNode {
+        int val;
+        ListNode next;
+
+        ListNode() {
+        }
+
+        ListNode(int val) {
+            this.val = val;
+        }
+
+        ListNode(int val, ListNode next) {
+            this.val = val;
+            this.next = next;
+        }
+    }
+    //leetcode submit region begin(Prohibit modification and deletion)
+    class Solution {
+        public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
+            if(list1==null){
+                return list2;
+            }
+            if(list2==null){
+                return list1;
+            }
+            ListNode end = null;
+            ListNode start = null;
+            while (list1 != null && list2 != null) {
+                if (list1.val <= list2.val) {
+                    if (start == null) {
+                        start = list1;
+                        end = start;
+                    } else {
+                        end.next = list1;
+                        end = list1;
+                    }
+                    list1 = list1.next;
+                } else {
+                    if (start == null) {
+                        start = list2;
+                        end = start;
+                    } else {
+                        end.next = list2;
+                        end = list2;
+                    }
+                    list2 = list2.next;
+                }
+            }
+            if (list1 != null) {
+                end.next = list1;
+            }
+            if (list2 != null) {
+                end.next = list2;
+            }
+            return start;
+        }
+    }
+//leetcode submit region end(Prohibit modification and deletion)
+
+}

@@ -43,7 +43,7 @@ package leetcode.editor.cn;
 //
 // 进阶：你可以想出一个时间复杂度小于 O(n2) 的算法吗？ 
 // Related Topics 数组 哈希表 
-// 👍 15325 👎 0
+// 👍 15325 👎
 
 import java.util.HashMap;
 import java.util.Map;
