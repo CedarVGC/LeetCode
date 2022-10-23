@@ -55,17 +55,33 @@ package leetcode.editor.cn;
 // Related Topics 数组 双指针 排序 
 // 👍 1607 👎 0
 
-public class MergeSortedArray{
-	public static void main(String[] args) {
-		Solution solution = new MergeSortedArray().new Solution();
-		
-	}
-//leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
-    public void merge(int[] nums1, int m, int[] nums2, int n) {
+public class MergeSortedArray {
+    public static void main(String[] args) {
+        Solution solution = new MergeSortedArray().new Solution();
 
     }
-}
+
+    //leetcode submit region begin(Prohibit modification and deletion)
+    class Solution {
+        public void merge(int[] nums1, int m, int[] nums2, int n) {
+            int l1 = m - 1;
+            int l2 = n - 1;
+            int l3 = m + n - 1;
+            while (l1 >= 0 && l2 >= 0) {
+                if (nums1[l1] > nums2[l2]) {
+                    nums1[l3] = nums1[l1];
+                    l1--;
+                } else {
+                    nums1[l3] = nums2[l2];
+                    l2--;
+                }
+                l3--;
+            }
+            for (int i = 0; i <= l2; i++) {
+                nums1[i] = nums2[i];
+            }
+        }
+    }
 //leetcode submit region end(Prohibit modification and deletion)
 
 }
