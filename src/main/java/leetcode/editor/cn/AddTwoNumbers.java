@@ -78,7 +78,23 @@ public class AddTwoNumbers {
      */
     class Solution {
         public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-			return null;
+            return addRecursion(l1, l2, 0);
+        }
+
+        public ListNode addRecursion(ListNode l1, ListNode l2, int a) {
+            if (!(l1 == null && l2 == null && a == 0)) {
+                int s = (l1 != null ? l1.val : 0) + (l2 != null ? l2.val : 0) + a;
+                ListNode r = new ListNode();
+                r.val = s % 10;
+                if (s >= 10) {
+                    a = 1;
+                } else {
+                    a = 0;
+                }
+                r.next = addRecursion(l1 != null ? l1.next : null, l2 != null ? l2.next : null, a);
+                return r;
+            }
+            return null;
         }
     }
 //leetcode submit region end(Prohibit modification and deletion)
