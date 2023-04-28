@@ -39,7 +39,7 @@ package leetcode.editor.cn;
 // 0 <= Node.val <= 9 
 // 题目数据保证列表表示的数字不含前导零 
 // 
-// Related Topics 递归 链表 数学 
+// Related Topics 递归 链表 数学
 // 👍 8801 👎 0
 
 public class AddTwoNumbers {
