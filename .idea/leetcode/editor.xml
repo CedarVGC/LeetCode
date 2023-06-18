@@ -3,363 +3,76 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
-        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/AddBinary.java">
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/ImplementStackUsingQueues.java">
           <value>
             <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/AddBinary.java" />
-              <option name="questionId" value="67" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/AddTwoNumbers.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/AddTwoNumbers.java" />
-              <option name="questionId" value="2" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/BalancedBinaryTree.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/BalancedBinaryTree.java" />
-              <option name="questionId" value="110" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/BestTimeToBuyAndSellStock.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/BestTimeToBuyAndSellStock.java" />
-              <option name="questionId" value="121" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/BinaryTreeInorderTraversal.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/BinaryTreeInorderTraversal.java" />
-              <option name="questionId" value="94" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/BinaryTreePreorderTraversal.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/BinaryTreePreorderTraversal.java" />
-              <option name="questionId" value="144" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/ClimbingStairs.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/ClimbingStairs.java" />
-              <option name="questionId" value="70" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/ContainsDuplicate.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/ContainsDuplicate.java" />
-              <option name="questionId" value="217" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/ContainsDuplicateIi.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/ContainsDuplicateIi.java" />
-              <option name="questionId" value="219" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/ConvertSortedArrayToBinarySearchTree.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/ConvertSortedArrayToBinarySearchTree.java" />
-              <option name="questionId" value="108" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/ExcelSheetColumnNumber.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/ExcelSheetColumnNumber.java" />
-              <option name="questionId" value="171" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/ExcelSheetColumnTitle.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/ExcelSheetColumnTitle.java" />
-              <option name="questionId" value="168" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/GrayCode.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/GrayCode.java" />
-              <option name="questionId" value="89" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/LengthOfLastWord.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/LengthOfLastWord.java" />
-              <option name="questionId" value="58" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/LinkedListCycle.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/LinkedListCycle.java" />
-              <option name="questionId" value="141" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/LongestCommonPrefix.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/LongestCommonPrefix.java" />
-              <option name="questionId" value="14" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/LongestPalindromicSubstring.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/LongestPalindromicSubstring.java" />
-              <option name="questionId" value="5" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/LongestSubstringWithoutRepeatingCharacters.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/LongestSubstringWithoutRepeatingCharacters.java" />
-              <option name="questionId" value="3" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/MaximumDepthOfBinaryTree.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/MaximumDepthOfBinaryTree.java" />
-              <option name="questionId" value="104" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/MergeSortedArray.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/MergeSortedArray.java" />
-              <option name="questionId" value="88" />
+              <option name="frontendQuestionId" value="leetcode.cn225" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/ImplementStackUsingQueues.java" />
+              <option name="titleSlug" value="implement-stack-using-queues" />
             </LeetcodeEditor>
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/MergeTwoSortedLists.java">
           <value>
             <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/MergeTwoSortedLists.md" />
+              <option name="frontendQuestionId" value="leetcode.cn21" />
+              <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/MergeTwoSortedLists.java" />
-              <option name="questionId" value="21" />
+              <option name="titleSlug" value="merge-two-sorted-lists" />
             </LeetcodeEditor>
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/MinimumDepthOfBinaryTree.java">
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/NimGame.java">
           <value>
             <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/MinimumDepthOfBinaryTree.java" />
-              <option name="questionId" value="111" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/PalindromeNumber.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/PalindromeNumber.java" />
-              <option name="questionId" value="9" />
+              <option name="frontendQuestionId" value="leetcode.cn292" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/NimGame.java" />
+              <option name="titleSlug" value="nim-game" />
             </LeetcodeEditor>
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/PascalsTriangle.java">
           <value>
             <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn118" />
+              <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/PascalsTriangle.java" />
-              <option name="questionId" value="118" />
+              <option name="titleSlug" value="pascals-triangle" />
             </LeetcodeEditor>
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/PascalsTriangleIi.java">
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/RangeSumQueryImmutable.java">
           <value>
             <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/PascalsTriangleIi.java" />
-              <option name="questionId" value="119" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/PathSum.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/PathSum.java" />
-              <option name="questionId" value="112" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/PlusOne.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/PlusOne.java" />
-              <option name="questionId" value="66" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/RemoveDuplicatesFromSortedArray.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/RemoveDuplicatesFromSortedArray.java" />
-              <option name="questionId" value="26" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/RemoveDuplicatesFromSortedList.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/RemoveDuplicatesFromSortedList.java" />
-              <option name="questionId" value="83" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/RemoveElement.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/RemoveElement.java" />
-              <option name="questionId" value="27" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/ReverseInteger.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/ReverseInteger.java" />
-              <option name="questionId" value="7" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/RomanToInteger.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/RomanToInteger.java" />
-              <option name="questionId" value="13" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/SameTree.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/SameTree.java" />
-              <option name="questionId" value="100" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/SearchInsertPosition.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/SearchInsertPosition.java" />
-              <option name="questionId" value="35" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/SingleNumber.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/SingleNumber.java" />
-              <option name="questionId" value="136" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/SymmetricTree.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/SymmetricTree.java" />
-              <option name="questionId" value="101" />
+              <option name="frontendQuestionId" value="leetcode.cn303" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/RangeSumQueryImmutable.java" />
+              <option name="titleSlug" value="range-sum-query-immutable" />
             </LeetcodeEditor>
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/TwoSum.java">
           <value>
             <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/TwoSum.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1" />
+              <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/TwoSum.java" />
-              <option name="questionId" value="1" />
+              <option name="titleSlug" value="two-sum" />
             </LeetcodeEditor>
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/ValidPalindrome.java">
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[9]回文数.java">
           <value>
             <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/ValidPalindrome.java" />
-              <option name="questionId" value="125" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/ValidParentheses.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/ValidParentheses.java" />
-              <option name="questionId" value="20" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/ZigzagConversion.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/ZigzagConversion.java" />
-              <option name="questionId" value="6" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[1]两数之和.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[1]两数之和.java" />
-              <option name="questionId" value="1" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/leetcode/editor/cn/SingleNumber.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/leetcode/editor/cn/SingleNumber.java" />
-              <option name="questionId" value="136" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/problem/leetcode/editor/cn/[1]两数之和.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/src/main/java/problem/leetcode/editor/cn/[1]两数之和.java" />
-              <option name="questionId" value="1" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/problem/leetcode/editor/cn/[672]灯泡开关 Ⅱ.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/src/main/java/problem/leetcode/editor/cn/[672]灯泡开关 Ⅱ.java" />
-              <option name="questionId" value="672" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="/tmp/leetcode/editor/cn/[136]只出现一次的数字.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="/tmp/leetcode/editor/cn/[136]只出现一次的数字.java" />
-              <option name="questionId" value="136" />
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/[9]回文数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn9" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[9]回文数.java" />
+              <option name="titleSlug" value="palindrome-number" />
             </LeetcodeEditor>
           </value>
         </entry>
