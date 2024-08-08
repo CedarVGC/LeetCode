@@ -37,6 +37,11 @@ package leetcode.editor.cn;
 // Related Topics 数组 哈希表 滑动窗口 
 // 👍 575 👎 0
 
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+
 public class ContainsDuplicateIi {
     public static void main(String[] args) {
         Solution solution = new ContainsDuplicateIi().new Solution();
@@ -46,6 +51,16 @@ public class ContainsDuplicateIi {
     //leetcode submit region begin(Prohibit modification and deletion)
     class Solution {
         public boolean containsNearbyDuplicate(int[] nums, int k) {
+            if (k == 0) {
+                return false;
+            }
+            Map<Integer, Integer> map = new HashMap<Integer, Integer>();
+            for (int i = 0; i < nums.length; i++) {
+                if (map.containsKey(nums[i]) && (i - map.get(nums[i]) <= k)) {
+                    return true;
+                }
+                map.put(nums[i], i);
+            }
             return false;
         }
     }
