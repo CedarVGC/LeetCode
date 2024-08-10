@@ -64,7 +64,7 @@ public class FirstBadVersion {
             int start = 1;
             int mid = 0;
             while (start <= n) {
-                mid = start + (n - start) / 2;
+                mid = start + ((n - start) >> 1);
                 if (isBadVersion(mid)) {
                     if (mid == start) {
                         return mid;
